@@ -27,7 +27,7 @@ I’m a 19-year-old dual student (Business Informatics) and hands-on DevOps/Clou
 
 - **Kubernetes (soon)**
   - Homelab plans (k3s → RBAC, networking, observability, GitOps).  
-    <https://github.com/ilyos-creater/Kubernetes-Homelab>
+    <[https://github.com/ilyos-creater/Kubernetes-Homelab](https://github.com/Ilyos-creater/homelab)>
 
 ---
 

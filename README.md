@@ -1,58 +1,88 @@
 # Ilyas El-Hallaoui
 
-DevOps Engineer in training • Dual Business Informatics Student • Linux & Cloud enthusiast  
-I learn by doing — I **touch it, break it, fix it, and ship it.**
+**DevOps Engineer · Cloud & Automation Builder · System Thinker**
+
+I work hands-on with **Linux**, **Docker**, **Kubernetes**, **Azure**, and **CI/CD**.
+
+Currently, I’m pursuing a dual degree in **Business Informatics** while working as a **DevOps Engineer & IT Consultant** at **Sky-E Red GmbH**.
+
+I love this field because it never stands still — there’s always something new to build and learn.
 
 ---
 
-### I’m the next generation of DevOps learners.
+## 🚀 Things I’ve Built
 
-I’m 19 years old and part of the dual study program at **Sky-E Red GmbH** while studying **Business Informatics at WBH**.  
-Every repo here reflects my learning philosophy: **practice > theory**, automation over repetition, and clarity over complexity.
+### 🧠 Homelab
 
----
+I’ve recently started exploring **Kubernetes**, as one of my main long-term projects is to build:
 
-## 🧠 Things I’m Building & Practicing
+> My personal self-hosted Kubernetes cluster — managed with **FluxCD**, **Helm**, and **GitOps** principles.
 
-### **Linux & Bash**
-CLI sessions, automation scripts, and system-level understanding.  
-👉 [Linux-Bash-Study](https://github.com/Ilyos-creater/Linux-Bash-Study)
+I’m currently working through a Kubernetes course to master the fundamentals before starting the full setup.
 
-### **Docker & Containerization**
-Building portable, reproducible environments with small labs and internal tools.  
-👉 [DockerLab](https://github.com/ilyos-creater/DockerLab)
-
-### **Azure Cloud Resume Challenge**
-Live project → [Cloud Resume Challenge](https://happy-bush-01f706410.6.azurestaticapps.net/)  
-Repo → [Azure Resume](https://github.com/ilyos-creater/azure-resume)
-
-### **Kubernetes Homelab (coming soon)**
-Learning cluster fundamentals — from k3s to GitOps.  
-👉 [Kubernetes-Homelab](https://github.com/Ilyos-creater/homelab)
-
-### **Python for DevOps (coming soon)**
-Scripting, tooling, and mini-APIs that solve real workflow problems.  
-👉 [Pythonlab](https://github.com/ilyos-creater/Pythonlab)
+➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/homelab)*
 
 ---
 
-## ⚙️ How I Work
+### 👾 Pacman App (DevOps Demo Project)
 
-- **Practice first:** every commit is hands-on.  
-- **Tight loops:** small, testable steps > big mystery merges.  
-- **Readable by default:** clear READMEs and self-explaining code.  
-- **AI as feedback:** never for solutions — only for understanding and refinement.
----
+A containerized **Node.js + MongoDB** application demonstrating:
 
-## 🌐 Profiles & Contact
+- Docker networking  
+- Compose stacks  
+- CI/CD deployment pipelines  
 
-- **LinkedIn:** [linkedin.com/in/ilyas-el-hallaoui-49639820b](https://www.linkedin.com/in/ilyas-el-hallaoui-49639820b)  
-- **Credly:** [credly.com/users/ilyas-el-hallaoui](https://www.credly.com/users/ilyas-el-hallaoui)
+➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/pacman-master#)*
 
 ---
 
-> “If you want to learn DevOps, don’t just read about it — break something, fix it, and push the commit.”
+### 💻 Linux & Bash Study Repo
+
+My long-term study companion — hundreds of small scripts, exercises, and notes exploring Bash, Linux philosophy, and CLI efficiency.
+
+➡️ [View on GitHub](https://github.com/Ilyaselhallaoui/Linux-Bash-Study)
 
 ---
 
-### Building systems, habits, and skills — one commit at a time.
+## ☁️ Microsoft Azure
+
+I’m going all-in on the **Azure ecosystem**.  
+Previously, I worked with **AWS** while earning my **AWS CCP (2024)**, but Azure simply felt more exciting and aligned with my DevOps path.
+
+While my current focus is **Containerization** and **Kubernetes**, I also built a small Azure project:
+
+### **Cloud Resume Challenge**
+
+*(Disclaimer: This website is no longer up-to-date or actively used.)*
+
+➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/AzureResume)*
+
+For more info on my current projects and experience — check out my **up-to-date resume** below 👇
+
+---
+
+## 🌐 Community & Content
+
+I share **practical DevOps insights** and **hands-on projects** to help students and junior engineers gain real-world tech experience.
+
+- 🧩 [Technical Blog](https://www.ilyaselhallaoui.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ilyas-el-hallaoui-49639820b/)
+- 🎥 [YouTube](https://www.youtube.com/@Ilyashallaoui)
+- 🧵 [X (Twitter)](https://x.com/ilyas_Hallaoui)
+
+---
+
+> “There is nothing as important to understanding the technology of today,  
+> but to use it and build with it.”  
+> — *Ilyas El-Hallaoui*
+
+---
+
+## ⚙️ Join My Work
+
+I’m documenting my journey to become a **world-class DevOps & Cloud Engineer**,  
+building practical projects that anyone can learn from.
+
+👉 Follow my progress, fork my projects, and build along.
+
+**Let’s make DevOps hands-on again.**

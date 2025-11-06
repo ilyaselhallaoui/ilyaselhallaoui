@@ -20,19 +20,18 @@ I’ve recently started exploring **Kubernetes**, as one of my main long-term pr
 
 I’m currently working through a Kubernetes course to master the fundamentals before starting the full setup.
 
-➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/homelab)*
+➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/homelab#)*
 
 ---
 
-### 👾 Pacman App (DevOps Demo Project)
+### 👾 Pacman App (Docker-Compose Project)
 
 A containerized **Node.js + MongoDB** application demonstrating:
 
 - Docker networking  
-- Compose stacks  
-- CI/CD deployment pipelines  
+- Docker Compose 
 
-➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/pacman-master#)*
+➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/Pacman-DockerCompose-project#)*
 
 ---
 
@@ -40,7 +39,7 @@ A containerized **Node.js + MongoDB** application demonstrating:
 
 My long-term study companion — hundreds of small scripts, exercises, and notes exploring Bash, Linux philosophy, and CLI efficiency.
 
-➡️ [View on GitHub](https://github.com/Ilyaselhallaoui/Linux-Bash-Study)
+➡️ [View on GitHub](https://github.com/Ilyaselhallaoui/Linux-Bash-Study#)
 
 ---
 
@@ -55,7 +54,7 @@ While my current focus is **Containerization** and **Kubernetes**, I also built 
 
 *(Disclaimer: This website is no longer up-to-date or actively used.)*
 
-➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/AzureResume)*
+➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/AzureResume#)*
 
 For more info on my current projects and experience — check out my **up-to-date resume** below 👇
 

@@ -2,7 +2,7 @@
 
 **DevOps Engineer · Cloud & Automation Builder · System Thinker**
 
-I work hands-on with **Linux**, **Docker**, **Kubernetes**, **Azure**, and **CI/CD**.
+I work hands-on with **Linux**, **Docker**, **Kubernetes** and **Azure**
 
 Currently, I’m pursuing a dual degree in **Business Informatics** while working as a **DevOps Engineer & IT Consultant** at **Sky-E Red GmbH**.
 

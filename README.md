@@ -12,7 +12,14 @@ I love this field because it never stands still — there’s always something n
 
 ## 🚀 Things I’ve Built
 
-### 🧠 Homelab
+### 🧠 lab
+
+Whenever I learn new technologies, I try to build and fail instead of read and watch. This is where my lab repo comes in handy. In this repo, I have a ton of projects, files unfinished and finished I did, not to build complete projects but just to learn and understand different technologies:
+
+➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/lab#)*
+
+
+###  Homelab
 
 I’ve recently started exploring **Kubernetes**, as one of my main long-term projects is to build:
 
@@ -29,17 +36,18 @@ I’m currently working through a Kubernetes course to master the fundamentals b
 A containerized **Node.js + MongoDB** application demonstrating:
 
 - Docker networking  
-- Docker Compose 
+- Docker Compose
 
-➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/Pacman-DockerCompose-project#)*
-
+➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/lab/tree/main/Docker-Compose/PacmanMaster#)*
+I am currently enhancing the project, to make it a complete web app using Kubernetes, CI/CD and IaC. To view the progess go here:
+➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/pacman-master#)*
 ---
 
 ### 💻 Linux & Bash Study Repo
 
-My long-term study companion — hundreds of small scripts, exercises, and notes exploring Bash, Linux philosophy, and CLI efficiency.
+In 2025 I did some more extensiv study of Linux and Bash-Scripting, to view all of my projects, go here:
 
-➡️ [View on GitHub](https://github.com/Ilyaselhallaoui/Linux-Bash-Study#)
+➡️ [View on GitHub](https://github.com/ilyaselhallaoui/lab/tree/main/Linux-Bash-Study#)
 
 ---
 

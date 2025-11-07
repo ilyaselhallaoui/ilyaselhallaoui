@@ -39,7 +39,9 @@ A containerized **Node.js + MongoDB** application demonstrating:
 - Docker Compose
 
 ➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/lab/tree/main/Docker-Compose/PacmanMaster#)*
+
 I am currently enhancing the project, to make it a complete web app using Kubernetes, CI/CD and IaC. To view the progess go here:
+
 ➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/pacman-master#)*
 ---
 

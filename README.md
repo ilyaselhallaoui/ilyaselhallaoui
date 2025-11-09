@@ -62,11 +62,8 @@ While my current focus is **Containerization** and **Kubernetes**, I also built 
 
 ### **Cloud Resume Challenge**
 
-*(Disclaimer: This website is no longer up-to-date or actively used.)*
 
 ➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/AzureResume#)*
-
-For more info on my current projects and experience — check out my **up-to-date resume** below 👇
 
 ---
 

@@ -33,7 +33,7 @@ I work hands-on with **Linux**, **Docker**, **Kubernetes** and **Azure**
 
 Currently, I’m pursuing a dual degree in **Business Informatics** while working as a **DevOps Engineer & IT Consultant** at **Sky-E Red GmbH**.
 
-I love this field because it never stands still — there’s always something new to build and learn.
+I love this field because it never stands still and there’s always something new to build and learn.
 
 ---
 

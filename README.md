@@ -1,6 +1,29 @@
 # Ilyas El-Hallaoui
 
-**DevOps Engineer · Cloud & Automation Builder · System Thinker**
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Ilyas El-Hallaoui"
+        self.role = "DevOps Engineer & Lifelong Student"
+        self.languages_spoken = ["German", "English"]
+
+    def say_hi(self):
+        print("Hello, I hope you find some of my work interesting!")
+
+me = SoftwareEngineer()
+me.say_hi()
+
+# Blogs & Links
+print("\n** Blogs **")
+print("My personal website: https://www.ilyaselhallaoui.com")
+print("My blog: https://substack.com/@ilyashallaoui")
+print("My other social media presences: https://linktr.ee/ilyasdev")
+
+
+
+
 
 I work hands-on with **Linux**, **Docker**, **Kubernetes** and **Azure**
 

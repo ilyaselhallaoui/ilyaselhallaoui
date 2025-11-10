@@ -1,5 +1,6 @@
 # Ilyas El-Hallaoui
 
+```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
@@ -14,12 +15,15 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
+```
 
-# Blogs & Links
-print("\n** Blogs **")
-print("My personal website: https://www.ilyaselhallaoui.com")
-print("My blog: https://substack.com/@ilyashallaoui")
-print("My other social media presences: https://linktr.ee/ilyasdev")
+🧠 Blogs & Links
+
+🌐 Personal Website: https://ilyaselhallaoui.com
+
+✍️ Blog: https://substack.com/@ilyashallaoui
+
+🔗 Other Socials: https://linktr.ee/ilyasdev
 
 
 

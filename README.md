@@ -19,7 +19,7 @@ me.say_hi()
 
 🧠 Blogs & Links
 
-🌐 Personal Website: https://ilyaselhallaoui.com
+🌐 Personal Website: [https://ilyaselhallaoui.com](https://www.ilyaselhallaoui.com/)
 
 ✍️ Blog: https://substack.com/@ilyashallaoui
 

@@ -29,7 +29,7 @@ me.say_hi()
 
 
 
-I work hands-on with **Linux**, **Docker**, **Kubernetes** and **Azure**
+I work hands-on with **Linux**, **Python**, **Docker**, **Kubernetes** and **Azure**
 
 Currently, I’m pursuing a dual degree in **Business Informatics** while working as a **DevOps Engineer & IT Consultant** at **Sky-E Red GmbH**.
 

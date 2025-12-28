@@ -19,7 +19,7 @@ me.say_hi()
 
 🧠 Blogs & Links
 
-🌐 Personal Website: [https://ilyaselhallaoui.com](https://www.ilyaselhallaoui.com/)
+🌐 Personal Website: [https://ilyaselhallaoui.com](https://www.ilyaselhallaoui.com/)  (currently down)
 
 ✍️ Blog: https://substack.com/@ilyashallaoui
 
@@ -90,7 +90,7 @@ While my current focus is **Containerization** and **Kubernetes**, I also built 
 ### **Cloud Resume Challenge**
 
 
-➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/AzureResume#)*
+➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/AzureResume#)*  (took it down)
 
 ---
 

@@ -1,121 +1,99 @@
-# Ilyas El-Hallaoui
-
+# Hey, I'm Ilyas 👋
 ```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-class SoftwareEngineer:
+class IlyasBuilds:
     def __init__(self):
-        self.name = "Ilyas El-Hallaoui"
-        self.role = "DevOps Engineer & Lifelong Student"
-        self.languages_spoken = ["German", "English"]
+        self.name      = "Ilyas El-Hallaoui"
+        self.alias     = "ilyasbuilds"
+        self.role      = "Junior DevOps Engineer · IT Consultant · Builder"
+        self.location  = "Rüsselsheim, Germany"
+        self.stack     = ["Linux", "Python", "Docker", "Kubernetes", "Azure"]
+        self.building  = ["K3s Homelab", "CKAD Prep", "Building in Public"]
 
-    def say_hi(self):
-        print("Hello, I hope you find some of my work interesting!")
+    def philosophy(self):
+        return "I study the theory. But nothing sticks until I build it."
 
-me = SoftwareEngineer()
-me.say_hi()
+me = IlyasBuilds()
+print(me.philosophy())
 ```
 
-🧠 Blogs & Links
+---
 
-🌐 Personal Website: [https://ilyaselhallaoui.com](https://www.ilyaselhallaoui.com/)  (currently down)
+## What ilyasbuilds is about
 
-✍️ Blog: https://substack.com/@ilyashallaoui
+I'm a 20-year-old DevOps Engineer and Business Informatics student documenting the real version of learning this field.
 
-🔗 Other Socials: https://linktr.ee/ilyasdev
+I read. I take courses. But my main focus is always building, because that's where the actual understanding happens.
 
-
-
-
-
-I work hands-on with **Linux**, **Python**, **Docker**, **Kubernetes** and **Azure**
-
-Currently, I’m pursuing a dual degree in **Business Informatics** while working as a **DevOps Engineer & IT Consultant** at **Sky-E Red GmbH**.
-
-I love this field because it never stands still and there’s always something new to build and learn.
+I work hands-on at **Sky-E Red GmbH** on real infrastructure, while studying and building on the side. Everything I learn eventually becomes something I ship.
 
 ---
 
-## 🚀 Things I’ve Built
+## 🔨 Things I've Built (or am currently breaking)
 
-### 🧠 lab
+### ⚙️ Homelab — K3s on Bare Metal
 
-Whenever I learn new technologies, I try to build and fail instead of read and watch. This is where my lab repo comes in handy. In this repo, I have a ton of projects, files unfinished and finished I did, not to build complete projects but just to learn and understand different technologies:
+My self-hosted Kubernetes cluster running on an IONOS VPS + old laptop, connected via **Tailscale**.
 
-➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/lab#)*
+Currently self-hosting: **Firefly III** (personal finance). Still early. GitOps and full automation come later. Right now I'm focused on getting the fundamentals solid first.
 
-
-###  Homelab
-
-I’ve recently started exploring **Kubernetes**, as one of my main long-term projects is to build:
-
-> My personal self-hosted Kubernetes cluster — managed with **FluxCD**, **Helm**, and **GitOps** principles.
-
-I’m currently working through a Kubernetes course to master the fundamentals before starting the full setup.
-
-➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/homelab#)*
+➡️ [View on GitHub](https://github.com/ilyaselhallaoui/homelab)
 
 ---
 
-### 👾 Pacman App (Docker-Compose Project)
+### 🛠️ kfix — AI-powered K8s Troubleshooting CLI
 
-A containerized **Node.js + MongoDB** application demonstrating:
+When Claude Code dropped, I wanted to try vibe coding something real. kfix was that experiment, a small CLI tool that takes your broken Kubernetes state and helps you figure out what went wrong. Nothing serious, just a fun build to test what was possible. Shipped it to PyPI.
 
-- Docker networking  
-- Docker Compose
-
-➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/lab/tree/main/Docker-Compose/PacmanMaster#)*
-
-I am currently enhancing the project, to make it a complete web app using Kubernetes, CI/CD and IaC. To view the progess go here:
-
-➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/pacman-master#)*
----
-
-### 💻 Linux & Bash Study Repo
-
-In 2025 I did some more extensiv study of Linux and Bash-Scripting, to view all of my projects, go here:
-
-➡️ [View on GitHub](https://github.com/ilyaselhallaoui/lab/tree/main/Linux-Bash-Study#)
+➡️ [View on GitHub](https://github.com/ilyaselhallaoui/kfix)
 
 ---
 
-## ☁️ Microsoft Azure
+### 🧪 Lab — Where Things Go to Break
 
-I’m going all-in on the **Azure ecosystem**.  
-Previously, I worked with **AWS** while earning my **AWS CCP (2024)**, but Azure simply felt more exciting and aligned with my DevOps path.
+Not polished projects. Raw learning. Every time I pick up something new, it starts here.
 
-While my current focus is **Containerization** and **Kubernetes**, I also built a small Azure project:
-
-### **Cloud Resume Challenge**
-
-
-➡️ *[View on GitHub](https://github.com/ilyaselhallaoui/AzureResume#)*  (took it down)
+➡️ [View on GitHub](https://github.com/ilyaselhallaoui/lab)
 
 ---
 
-## 🌐 Community & Content
+### 👾 Pacman App — Docker to Kubernetes Migration
 
-I share **practical DevOps insights** and **hands-on projects** to help students and junior engineers gain real-world tech experience.
+Started as a Docker Compose project (Node.js + MongoDB), meant to be rebuilt with Kubernetes, CI/CD, and IaC. Currently paused while I focus on other things.
 
-- 🧩 [Technical Blog](https://www.ilyaselhallaoui.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ilyas-el-hallaoui-49639820b/)
-- 🎥 [YouTube](https://www.youtube.com/@Ilyashallaoui)
-- 🧵 [X (Twitter)](https://x.com/ilyas_Hallaoui)
+➡️ [Original](https://github.com/ilyaselhallaoui/lab/tree/main/Docker-Compose/PacmanMaster) · [Full rebuild](https://github.com/ilyaselhallaoui/pacman-master)
 
 ---
 
-> “There is nothing as important to understanding the technology of today,  
-> but to use it and build with it.”  
-> — *Ilyas El-Hallaoui*
+## 🎓 Making the CS Degree Great Again
+
+I study **Business Informatics** via distance learning at Wilhelm Büchner Hochschule, funded by my employer while working full-time as a DevOps Engineer.
+
+A lot of people say degrees are dead. I don't fully agree. I think a degree is what you make it, and most people just do the bare minimum and wonder why it didn't open any doors.
+
+My take: if you pair a degree with real projects, real work experience, and a genuine curiosity for the field, it still means something. That's what I'm trying to prove.
+
+On my main channel I document exactly what I'm doing to make my degree worth it, the projects, the mindset, and the stuff universities don't teach you but should.
+
+➡️ [Follow along on YouTube](https://www.youtube.com/@Ilyashallaoui)
 
 ---
 
-## ⚙️ Join My Work
+## ☁️ Where I'm Headed
 
-I’m documenting my journey to become a **world-class DevOps & Cloud Engineer**,  
-building practical projects that anyone can learn from.
+Going deep on **Kubernetes**, **AI**, and **Azure**. That's the intersection I find most interesting and where I want to build real expertise over the next few years. Previously earned **AWS CCP (2024)**.
 
-👉 Follow my progress, fork my projects, and build along.
+---
 
-**Let’s make DevOps hands-on again.**
+## 📡 Follow the Build
+
+I document the process, the wins, the broken configs, the lessons. If you're a student or junior engineer trying to get real experience, this is for you.
+
+- 🎥 **ilyasbuilds** (build sessions): [youtube.com/@ilyasbuilds](https://www.youtube.com/@ilyasbuilds)
+- 🎥 **Main channel**: [youtube.com/@Ilyashallaoui](https://www.youtube.com/@Ilyashallaoui)
+- 🐦 **X**: [x.com/ilyas_Hallaoui](https://x.com/ilyas_Hallaoui)
+- 💼 **LinkedIn**: [Ilyas El-Hallaoui](https://linkedin.com/in/ilyas-el-hallaoui-49639820b/)
+
+---
+
+> "I don't wait until I'm ready. I build until I am."
+> — ilyasbuilds

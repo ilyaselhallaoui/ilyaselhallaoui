@@ -92,7 +92,7 @@ ilyaselhallaoui.com: [ilyaselhallaoui.com](https://www.ilyaselhallaoui.com) <br>
 Main channel: [youtube.com/@Ilyashallaoui](https://www.youtube.com/@Ilyashallaoui) <br>
 X: [x.com/ilyas_Hallaoui](https://x.com/ilyas_Hallaoui) <br>
 LinkedIn: [Ilyas El-Hallaoui](https://linkedin.com/in/ilyas-el-hallaoui-49639820b/) <br>
-My blog: [Ilyas El-Hallaoui]([https://linkedin.com/in/ilyas-el-hallaoui-49639820b/](https://ilyaselhallaoui.com/blog/)
+My blog: [Ilyas El-Hallaoui](https://ilyaselhallaoui.com/blog/)
 
 ---
 

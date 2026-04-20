@@ -88,7 +88,7 @@ Going deep on Kubernetes, AI, and Azure. That's the intersection I find most int
 
 I document the process, the wins, the broken configs, the lessons. If you're a student or junior engineer trying to get real experience, this is for you.
 
-ilyasbuilds (build sessions): [youtube.com/@ilyasbuilds](https://www.youtube.com/@ilyasbuilds)
+ilyaselhallaoui.com: [ilyaselhallaoui.com](https://www.ilyaselhallaoui.com)
 Main channel: [youtube.com/@Ilyashallaoui](https://www.youtube.com/@Ilyashallaoui)
 X: [x.com/ilyas_Hallaoui](https://x.com/ilyas_Hallaoui)
 LinkedIn: [Ilyas El-Hallaoui](https://linkedin.com/in/ilyas-el-hallaoui-49639820b/)
